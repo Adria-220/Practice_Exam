@@ -17,7 +17,52 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/deliveries/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/camps/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/my-account/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/login/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/lost-password/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/registration/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/home/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
         </loc>
     </url>
     <url>
