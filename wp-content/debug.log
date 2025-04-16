@@ -1,0 +1,2 @@
+[16-Apr-2025 17:55:01 UTC] PHP Warning:  Undefined array key "host" in /workspaces/Practice_Exam/.wordpress/wp-includes/pluggable.php on line 1640
+[16-Apr-2025 17:56:33 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Practice_Exam/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
